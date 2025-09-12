@@ -3,12 +3,11 @@
 #Swathis Rubrik
 
 Userstory-015
-As a devops,
+As a human being
 I want to, 
-have a Help File for
-==Highlight== certain words in Markdown
+be able to speak my mind
 So that
-When I need to do it I can find instructions.
+I don't implode.
 DoD
 ##Devops Callegue Uses Instruction.
 
